@@ -23,7 +23,6 @@ html {
 body {
     display: flex;
     flex-direction: column;
-    gap: 200px;
 }
 
 header {
@@ -33,6 +32,7 @@ header {
 
     display: flex;
     justify-content: space-between;
+    margin-bottom: 200px;
 }
 
 header > div, header ul, .footer-menu ul{
@@ -221,6 +221,7 @@ footer {
 
     margin-bottom: 60px;
     color: #42446E;
+    margin-top: 200px;
 }
 
 .info {
